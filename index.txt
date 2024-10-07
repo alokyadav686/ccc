@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-hello everyone 
-vi is again used
-you wont understand
-=======
+
 hello everyone
 vi is a command through which i can add content in repo
->>>>>>> origin/main
+resolved
